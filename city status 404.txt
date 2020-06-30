@@ -1,0 +1,5 @@
+GET //city//users HTTP/1.1
+Host: bpdts-test-app-v2.herokuapp.com
+first_name: Mo
+cache-control: no-cache
+Postman-Token: d04b73c0-8022-47e2-b924-c5763611cfb2

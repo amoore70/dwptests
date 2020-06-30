@@ -1,0 +1,4 @@
+GET /city/CITY/users?CITY=bristol HTTP/1.1
+Host: bpdts-test-app-v2.herokuapp.com
+cache-control: no-cache
+Postman-Token: c5ff5526-6dd1-4763-8063-b82ee0665a54
